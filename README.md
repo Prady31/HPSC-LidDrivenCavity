@@ -91,7 +91,7 @@ bash build_and_run.sh
 ```
 
 This compiles all solvers, runs serial and OpenMP simulations for Re = 100, 400, 1000, 3200,
-and generates all plots including the animation.
+and generates all plots, including the animation.
 
 ### Manual Steps
 
@@ -125,7 +125,3 @@ python3 scripts/plot_paper.py
 - OpenMP Architecture Review Board, *OpenMP API Specification v5.2* (2021).
 
 ---
-
-## License
-
-MIT © Prady
